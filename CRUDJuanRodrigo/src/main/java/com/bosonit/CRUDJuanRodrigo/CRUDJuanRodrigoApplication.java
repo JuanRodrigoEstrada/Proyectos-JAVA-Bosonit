@@ -1,0 +1,13 @@
+package com.bosonit.CRUDJuanRodrigo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CRUDJuanRodrigoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CRUDJuanRodrigoApplication.class, args);
+	}
+
+}
